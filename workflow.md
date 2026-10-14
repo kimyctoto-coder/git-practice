@@ -13,3 +13,4 @@
 - `Update submission checklist`
 
 Keep each commit focused on one logical change.
+Practice note: Check the working tree before committing changes.
