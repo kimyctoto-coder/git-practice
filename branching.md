@@ -23,3 +23,4 @@ git merge practice-branch
 ```
 
 For a small practice repository, make sure your main branch contains the final files before submitting.
+Practice note: Use branches to develop features separately.
