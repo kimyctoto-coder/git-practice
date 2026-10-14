@@ -32,3 +32,4 @@ git restore <file>
 ```
 
 Be careful: `git restore <file>` discards uncommitted changes to that file.
+Practice note: Review the Git add, commit, and status commands.
