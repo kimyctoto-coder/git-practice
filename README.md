@@ -26,3 +26,9 @@ git log --oneline
 ```
 
 This is a learning exercise. Do not add passwords, access tokens, private keys, or personal information.
+## Practice Progress
+
+- Created the repository
+- Added Git basics documentation
+- Added branching documentation
+- Added workflow and checklist files
